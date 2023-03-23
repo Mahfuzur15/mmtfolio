@@ -22,23 +22,23 @@ export const Introduction = () => {
             <div className="introduction_datacontainer">
               <h4>
                 Hi Everyone, My name is{" "}
-                <span className="different">Mahfuz Tushar </span> and I am from
+                <span className="different">Mahfuz Tushar </span> and I am from{" "}
                 <span className="different">
                   Dhaka, Bangladesh
                 </span>
-                . I have completed my graduation at BSc in CSE
+                . I have completed my graduation at B'Sc in CSE
                 from{" "}
                 <span className="different">
-                Daffodil International University
+                  Daffodil International University
                 </span>
-                
+
               </h4>
               <h4>Terms That can describe me apart form Coding :</h4>
               <h4 className="different">
                 <span className="icons">
                   <ExitToAppIcon />
                 </span>
-                Entrepreneure{" "}
+                Entrepreneur{" "}
               </h4>
               <h4 className="different">
                 <span className="icons">

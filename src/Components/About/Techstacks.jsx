@@ -23,7 +23,7 @@ export const Techstacks = () => {
         <div className="techsection">
           <div>
             <SiJavascript />
-            <h5>Javascript</h5>
+            <h5>Java</h5>
           </div>
           <div>
             <SiHtml5 />
@@ -35,20 +35,20 @@ export const Techstacks = () => {
           </div>
           <div>
             <FaReact />
-            <h5>React</h5>
+            <h5>TestNG</h5>
           </div>
           <div>
             <FaNodeJs />
-            <h5>Nodejs</h5>
+            <h5>Selenium</h5>
           </div>
           <div>
             <DiMongodb />
-            <h5>MongoDb</h5>
+            <h5>Appium</h5>
           </div>
 
           <div>
             <SiExpress />
-            <h5>Express</h5>
+            <h5>Database</h5>
           </div>
 
           <div>
@@ -65,7 +65,7 @@ export const Techstacks = () => {
           </div>
           <div>
             <SiHeroku />
-            <h5>Heroku</h5>
+            <h5>Jira</h5>
           </div>
           <div>
             <VscGithub />

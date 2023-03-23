@@ -5,7 +5,6 @@ import GitHubIcon from "@material-ui/icons/GitHub";
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import EmailIcon from "@material-ui/icons/Email";
 import PhoneIcon from "@material-ui/icons/Phone";
-import TwitterIcon from "@material-ui/icons/Twitter";
 import DescriptionIcon from "@material-ui/icons/Description";
 // import PublicIcon from "@material-ui/icons/Public";
 import { Introduction } from "./Introduction";
@@ -21,12 +20,12 @@ export const About = () => {
         </h1>
         <Type />
         <p className="about__desc" data-aos="fade-right">
-        Passionate and creative Software Quality Assurance Engineer having proficiency in automation and manual. Attired with a variety of tools & technologies and keen to
+          Passionate and creative Software Quality Assurance Engineer having proficiency in automation and manual. Attired with a variety of tools & technologies and keen to
           learn new one.
         </p>
         <div className="about__contact center">
           <a
-            href="https://github.com/Shreyasgkhakal100"
+            href="https://github.com/Mahfuzur15"
             aria-label="github"
             target="_blank"
             rel="noreferrer"
@@ -35,7 +34,7 @@ export const About = () => {
             <GitHubIcon />
           </a>
           <a
-            href="mailto:shreyasgkhakal100@gmail.com"
+            href="mailto: mahfuztushar9@gmail.com"
             target="_blank"
             rel="noreferrer"
             aria-label="mail"
@@ -44,7 +43,7 @@ export const About = () => {
             <EmailIcon />
           </a>
           <a
-            href="tel:+918668613593"
+            href="tel:+8801611798171"
             target="_blank"
             rel="noreferrer"
             aria-label="phone"
@@ -53,7 +52,7 @@ export const About = () => {
             <PhoneIcon />
           </a>
           <a
-            href="https://www.linkedin.com/in/shreyas-g-khakal/"
+            href="https://www.linkedin.com/in/mahfuz-tushar/"
             aria-label="linkedin"
             className="link link--icon"
             target="_blank"
@@ -61,15 +60,7 @@ export const About = () => {
           >
             <LinkedInIcon />
           </a>
-          <a
-            href="https://twitter.com/KhakalShreyas"
-            aria-label="twitter"
-            className="link link--icon"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <TwitterIcon />
-          </a>
+
         </div>
 
         <button
